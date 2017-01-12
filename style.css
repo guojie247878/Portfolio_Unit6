@@ -1,7 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
-      background-size: cover;
+      background: url("scripted_logo_orange");
       color: white;
     }
     .nav {
@@ -38,3 +37,8 @@
         display: block;
       }
     }
+#profile
+ {
+   height:40px;
+   width: auto;
+ }
